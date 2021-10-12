@@ -1,4 +1,4 @@
-package projeto_java;
+package br.com.generation.projeto_java;
 
 public class Beneficiarios {
 	private String nome; 
