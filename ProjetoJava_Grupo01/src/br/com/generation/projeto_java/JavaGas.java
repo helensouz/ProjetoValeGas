@@ -19,8 +19,8 @@ public class JavaGas {
 
 		Beneficiarios novoBene = new Beneficiarios();
 
-		ImageIcon icone = new ImageIcon("bin/br/com/generation/Imagem/Gaspar.png");
-		ImageIcon gaspar = new ImageIcon("bin/br/com/generation/Imagem/Gaspar2.png");
+		ImageIcon icone = new ImageIcon("bin/Imagens/Gaspar.png");
+		ImageIcon gaspar = new ImageIcon("bin/Imagens/Gaspar2.png");
 
 		Object Options[] = { "Próximo >"};
 
